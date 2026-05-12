@@ -11,8 +11,8 @@ A collection of beginner C++ programs built while learning core programming conc
 | `temp_converter.cpp` | Converts between Celsius, Fahrenheit, and Kelvin |
 | `planet_weight_converter.cpp` | Enter your Earth weight and get your weight on any planet |
 | `multiplication_table.cpp` | Generates a custom-size formatted multiplication table |
-| `cake_intake_tracker.cpp` | |
-| `box_visualizer.cpp` | |
+| `cake_intake_tracker.cpp` | Tracks cake slices eaten vs a capacity limit using a while loop |
+| `box_visualizer.cpp` | Packs items into boxes and displays fill as a binary grid |
 
 ## What it demonstrates
 
