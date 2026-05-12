@@ -7,8 +7,8 @@ A collection of beginner C++ programs built while learning core programming conc
 | File | Description |
 |------|-------------|
 | `rock_paper_scissors.cpp` | Playable RPS game vs the computer with score tracking and replay |
-| `number_guessing_game.cpp` | Guess a random number with high/low hints and adjustable range |
-| `temperature_converter.cpp` | Converts between Celsius, Fahrenheit, and Kelvin |
+| `num_guessing_game.cpp` | Guess a random number with high/low hints and adjustable range |
+| `temp_converter.cpp` | Converts between Celsius, Fahrenheit, and Kelvin |
 | `planet_weight_converter.cpp` | Enter your Earth weight and get your weight on any planet |
 | `multiplication_table.cpp` | Generates a custom-size formatted multiplication table |
 
