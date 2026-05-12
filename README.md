@@ -1,6 +1,6 @@
 # C++ Mini Projects
 
-A collection of beginner C++ programs built while learning core programming concepts — loops, functions, conditionals, arrays, and user input handling.
+A collection of beginner C++ programs built while learning core programming concepts (loops, functions, conditionals, arrays, and user input handling.)
 
 ## Projects
 
